@@ -1,0 +1,5 @@
+Step 1 : Create a new folder and open Git Bash/CMD and goto the folder location 
+Step 2 : Run Commands 
+git config --global user.email "indukishen@gmail.com" 
+git config --global user.name "indukish" 
+Step 3 : Initialize Git git init 
