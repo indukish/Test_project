@@ -3,3 +3,11 @@ Step 2 : Run Commands
 git config --global user.email "indukishen@gmail.com" 
 git config --global user.name "indukish" 
 Step 3 : Initialize Git git init 
+Step 4 : Add some files in the folder Step 
+[This will stage all the files]
+5 : Run commands git status git add git commit -m  “Initial version” 
+Step 6 : Add the remote repo url 
+git remote add origin url_of_hithub_repo 
+Step
+ 7 : Push the changes to repository git push -u origin master 
+Step 8 : Check output of following commands git log git --help
