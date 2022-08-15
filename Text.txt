@@ -3,3 +3,5 @@ This is test file
 This is second commit
 
 This is third commit, for testing purpose
+
+Fourth commit will be removed
